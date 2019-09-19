@@ -10,8 +10,13 @@
 
 }
 
-.obscurecer, .carousel-caption, .carousel-control-next, .carousel-control-prev {
+.carousel-caption, .carousel-control-next, .carousel-control-prev {
   background-color: rgba(0, 0, 0, 0.7);
+}
+
+.obscurecer{
+  background-color: rgba(0, 0, 0, 0.7);
+  background-size: cover;
 }
 
 #inicio .inicio-izq, #productos h1, .prod2, .contxt, .titulo{
