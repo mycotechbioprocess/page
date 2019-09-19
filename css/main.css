@@ -5,6 +5,7 @@
 #inicio{
   padding-top: 40px;
   background: url(../img/fondo.jpg) no-repeat;
+  background-size: cover;
   color: #ffff;
 
 }
