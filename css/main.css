@@ -1,0 +1,52 @@
+#navbar{
+  background-color: #636e72;
+}
+
+#inicio{
+  padding-top: 40px;
+  background: url(../img/fondo.jpg) no-repeat;
+  color: #ffff;
+
+}
+
+.obscurecer, .carousel-caption, .carousel-control-next, .carousel-control-prev {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+#inicio .inicio-izq, #productos h1, .prod2, .contxt, .titulo{
+  font-family: 'Roboto Slab', serif;
+}
+
+#inicio .inicio-der, .datos2, .descripcion, .prod3, .datos, .infoform{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.fondoprod{
+  background-color: #f1f1f1;
+}
+
+.bd-example{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#contacto, #contacto2{
+  padding: 5px;
+  background-color: #f5c90a;
+}
+
+#contacto2{
+  padding-bottom: 10px;
+}
+
+.card{
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #ffff;
+}
+
+#footer{
+  padding: 10px;
+  background-color: #2d3436;
+  color: #f1f1f1;
+  background-size: cover;
+}
